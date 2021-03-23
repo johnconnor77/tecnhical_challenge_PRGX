@@ -5,9 +5,12 @@ This API returns the addition of two given number *x* and *y* that are passed th
 
 ![](https://p3y6v9e6.stackpathcdn.com/wp-content/uploads/zikoko/2020/06/saving-things-to-cart.gif)
 
+
 ## Environment
 
 GNU/Linux 
+
+
 
 ## How to install
 1. Clone the repository below
@@ -20,9 +23,7 @@ GNU/Linux
 
 3. Execute the following command for Application startup at repository root
 
-`/sum_api_prgx.py `
-
----
+`./sum_api_prgx.py `
 
 
 
