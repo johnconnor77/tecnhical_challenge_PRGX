@@ -3,9 +3,7 @@
 ---
 This API returns the addition of two given number *x* and *y* that are passed through the *POST request body*
 
-[![tenorfe32dd1dbc2ef6d2.gif](https://s4.gifyu.com/images/tenorfe32dd1dbc2ef6d2.gif)](https://gifyu.com/image/fVf5)
-
-## Environment
+![](https://p3y6v9e6.stackpathcdn.com/wp-content/uploads/zikoko/2020/06/saving-things-to-cart.gif)
 
 GNU/Linux 
 
