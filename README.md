@@ -52,7 +52,7 @@ Type the following command at your shell prompt
 
 ### Remote Example 
 
-Sum API was deployed at Heroku where you can also test it from the docs enpoint
+Sum API was deployed at Heroku where you can also test it from the docs endpoint
 
 
 [https://jconnor-prgx-sum-api.herokuapp.com/docs](https://jconnor-prgx-sum-api.herokuapp.com/docs/)
